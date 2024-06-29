@@ -10,6 +10,6 @@ fun main() {
     if(b == num) {
         println("Palindrome")
     } else {
-        println("Not a palindrome")
+        println("Not  a palindrome")
     }
 }
